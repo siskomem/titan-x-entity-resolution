@@ -1,0 +1,38 @@
+{
+  "gpu_count": 2,
+  "gpu_info": [
+    {
+      "id": 0,
+      "name": "Tesla T4",
+      "vram": 14.6,
+      "sm": 40,
+      "cap": "7.5",
+      "tf32": false,
+      "fp16": true,
+      "bf16": false,
+      "flash_attn": false,
+      "unified": false,
+      "l2_cache_mb": 0
+    },
+    {
+      "id": 1,
+      "name": "Tesla T4",
+      "vram": 14.6,
+      "sm": 40,
+      "cap": "7.5",
+      "tf32": false,
+      "fp16": true,
+      "bf16": false,
+      "flash_attn": false,
+      "unified": false,
+      "l2_cache_mb": 0
+    }
+  ],
+  "total_vram": 29.1243896484375,
+  "primary": "cuda:0",
+  "use_fp16": true,
+  "use_bf16": false,
+  "nvlink": false,
+  "flash_attn": false,
+  "unified_memory": false
+}
