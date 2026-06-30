@@ -1,0 +1,168 @@
+node_a,node_b,cos,cross_prob,graph_jaccard,classifier_prob,label,type_a,type_b,review_priority,cos_sim,jaro_winkler,token_sort_ratio,len_ratio,country_match,acronym_match,same_first_token,partial_ratio,token_set_ratio,phonetic_match,shared_token_ratio,domain_match,edit_distance_norm
+batman arkham origins,batman arkham origins blackgate deluxe edition,0.93985,0.99717,0.24406,0.7011,,person,unknown,0.998,0.93985,0.8913,0.62687,0.45652,1.0,0.0,1.0,1.0,1.0,1.0,0.5,0.0,0.62687
+batman arkham origins,batman arkham origins infinite earths skins pack,0.93261,0.99865,0.25076,0.69856,,person,unknown,0.997,0.93261,0.8875,0.6087,0.4375,1.0,0.0,1.0,1.0,1.0,1.0,0.42857,0.0,0.6087
+batman arkham origins,batman arkham origins new millennium skins pack,0.93671,0.99971,0.25665,0.70152,,person,unknown,0.997,0.93671,0.88936,0.61765,0.44681,1.0,0.0,1.0,1.0,1.0,1.0,0.42857,0.0,0.61765
+company of heroes 2,company of heroes tales of valor,0.91625,0.00013,0.31214,0.70204,,corporate,corporate,0.996,0.91625,0.90197,0.66667,0.59375,1.0,0.0,1.0,0.97297,0.94444,0.0,0.4,1.0,0.70588
+don t starve,don t starve reign of giants,0.90178,0.81093,0.1688,0.6959,,unknown,unknown,0.992,0.90178,0.88571,0.6,0.42857,1.0,0.0,1.0,1.0,1.0,0.0,0.5,1.0,0.6
+counter strike condition zero,counter strike nexon zombies,0.85551,0.0,0.39156,0.69597,,unknown,unknown,0.992,0.85551,0.88812,0.59649,0.96552,1.0,0.0,1.0,0.76364,0.73684,0.0,0.33333,1.0,0.73684
+valkyria chronicles challenge of the edy detachment,valkyria chronicles hard ex mode,0.87367,1e-05,0.23609,0.7048,,unknown,unknown,0.99,0.87367,0.88515,0.62651,0.62745,1.0,0.0,1.0,0.8,0.7451,1.0,0.2,1.0,0.6506
+valkyria chronicles edy s mission enter the edy detachment,valkyria chronicles selveria s mission behind her blue flame,0.84264,0.0,0.19753,0.69439,,unknown,unknown,0.989,0.84264,0.87193,0.64407,0.96667,1.0,0.0,1.0,0.71698,0.7193,1.0,0.30769,1.0,0.72881
+state of decay,state of decay breakdown,0.97287,0.97754,0.24181,0.69375,,person,unknown,0.987,0.97287,0.91667,0.73684,0.58333,1.0,0.0,1.0,1.0,1.0,0.0,0.75,0.0,0.73684
+america s army 3,america s army proving grounds,0.90548,6e-05,0.42137,0.70713,,unknown,unknown,0.986,0.90548,0.8875,0.6087,0.53333,1.0,0.0,1.0,0.96774,0.93333,0.0,0.5,1.0,0.65217
+grand theft auto episodes from liberty city,grand theft auto vice city,0.92321,1e-05,0.29958,0.70921,,unknown,unknown,0.982,0.92321,0.87124,0.6087,0.60465,1.0,0.0,1.0,0.82609,0.89362,0.0,0.5,1.0,0.69565
+batman arkham city goty,batman arkham origins initiation,0.906,0.02307,0.44673,0.69048,,unknown,unknown,0.981,0.906,0.87891,0.65455,0.71875,1.0,0.0,1.0,0.78947,0.72222,0.0,0.33333,1.0,0.61818
+warface,warframe,0.85795,0.0,0.38808,0.71056,,unknown,unknown,0.979,0.85795,0.92143,0.8,0.875,1.0,0.0,0.0,0.76923,0.8,0.0,0.0,1.0,0.8
+dead island,dead island epidemic,0.94255,0.13719,0.61684,0.68634,,person,person,0.973,0.94255,0.91,0.70968,0.55,1.0,0.0,1.0,1.0,1.0,0.0,0.66667,1.0,0.70968
+company of heroes opposing fronts,company of heroes tales of valor,0.93493,0.00015,0.3159,0.68388,,corporate,corporate,0.968,0.93493,0.88377,0.61538,0.9697,1.0,0.0,1.0,0.7451,0.73913,0.0,0.33333,1.0,0.67692
+call of duty advanced warfare,call of duty black ops,0.9048,0.0005,0.4922,0.71874,,unknown,unknown,0.963,0.9048,0.8558,0.62745,0.75862,1.0,0.0,1.0,0.77778,0.70588,0.0,0.42857,1.0,0.62745
+company of heroes 2,company of heroes opposing fronts,0.91022,0.0019,0.44775,0.7196,,corporate,corporate,0.961,0.91022,0.89856,0.65385,0.57576,1.0,0.0,1.0,0.97297,0.94444,0.0,0.4,1.0,0.69231
+company of heroes new steam version,company of heroes tales of valor,0.84481,1e-05,0.30624,0.67561,,corporate,corporate,0.951,0.84481,0.89341,0.71642,0.91429,1.0,0.0,1.0,0.74074,0.73913,0.0,0.28571,1.0,0.68657
+batman arkham knight,batman arkham origins,0.94449,0.00193,0.54977,0.72588,,person,person,0.948,0.94449,0.92014,0.78049,0.95238,1.0,0.0,1.0,0.84211,0.78788,0.0,0.5,1.0,0.78049
+far cry 2,far cry 2 fortunes pack,0.93,0.00056,0.41538,0.67334,,unknown,unknown,0.947,0.93,0.87826,0.5625,0.3913,1.0,0.0,1.0,1.0,1.0,0.0,0.6,1.0,0.5625
+half life 2 episode one,half life 2 lost coast,0.90862,9e-05,0.51042,0.72716,,unknown,unknown,0.946,0.90862,0.87208,0.66667,0.95652,1.0,0.0,1.0,0.71795,0.66667,0.0,0.42857,1.0,0.66667
+half life 2 episode two,half life 2 lost coast,0.91078,0.00454,0.51029,0.72716,,unknown,unknown,0.946,0.91078,0.87884,0.66667,0.95652,1.0,0.0,1.0,0.71795,0.66667,0.0,0.42857,1.0,0.66667
+half life 2 deathmatch,half life 2 episode one,0.90069,3e-05,0.445,0.72755,,unknown,unknown,0.945,0.90069,0.83473,0.62222,0.95652,1.0,0.0,1.0,0.74286,0.66667,0.0,0.5,1.0,0.62222
+far cry 3,far cry 3 blood dragon,0.91563,0.00329,0.33787,0.67144,,unknown,unknown,0.943,0.91563,0.88182,0.58065,0.40909,1.0,0.0,1.0,1.0,1.0,0.0,0.6,1.0,0.58065
+counter strike,counter strike source,0.96125,0.00019,0.73726,0.72901,,person,person,0.942,0.96125,0.93333,0.8,0.66667,1.0,0.0,1.0,1.0,1.0,0.0,0.66667,1.0,0.8
+stronghold 3,stronghold crusader hd,0.89146,0.0,0.70109,0.66602,,ngo,ngo,0.932,0.89146,0.88333,0.64706,0.54545,1.0,0.0,1.0,0.95652,0.90909,0.0,0.25,1.0,0.64706
+batman arkham asylum goty edition,batman arkham origins initiation,0.90812,0.00229,0.49415,0.66489,,unknown,unknown,0.93,0.90812,0.86777,0.64615,0.9697,1.0,0.0,1.0,0.65625,0.64615,0.0,0.28571,1.0,0.67692
+don t starve,don t starve together beta,0.93485,0.69656,0.18977,0.73584,,unknown,unknown,0.928,0.93485,0.89231,0.63158,0.46154,1.0,0.0,1.0,1.0,1.0,0.0,0.6,1.0,0.63158
+half life 2,half life 2 deathmatch,0.92734,0.00205,0.23719,0.66228,,unknown,unknown,0.925,0.92734,0.9,0.66667,0.5,1.0,0.0,1.0,1.0,1.0,0.0,0.75,1.0,0.66667
+counter strike global offensive,counter strike nexon zombies,0.85926,0.0,0.41782,0.6623,,corporate,unknown,0.925,0.85926,0.89293,0.57627,0.90323,1.0,0.0,1.0,0.7234,0.67797,0.0,0.4,0.0,0.67797
+metro last light,metro last light redux,0.96943,0.99977,0.23656,0.73911,,person,unknown,0.922,0.96943,0.94545,0.84211,0.72727,1.0,0.0,1.0,1.0,1.0,0.0,0.75,0.0,0.84211
+tera,terraria,0.86531,0.0,0.49793,0.66072,,unknown,unknown,0.921,0.86531,0.88333,0.66667,0.5,1.0,0.0,0.0,0.85714,0.66667,1.0,0.0,1.0,0.66667
+half life 2,half life 2 lost coast,0.9205,0.00124,0.23751,0.65729,,unknown,unknown,0.915,0.9205,0.9,0.66667,0.5,1.0,0.0,1.0,1.0,1.0,0.0,0.6,1.0,0.66667
+batman arkham city goty,batman arkham knight,0.91921,0.00022,0.25341,0.65399,,unknown,person,0.908,0.91921,0.90606,0.7907,0.86957,1.0,0.0,1.0,0.86486,0.7907,0.0,0.4,0.0,0.7907
+fiesta online,fiesta online na,0.9739,0.00081,0.74236,0.74741,,person,person,0.905,0.9739,0.9625,0.89655,0.8125,1.0,0.0,1.0,1.0,1.0,0.0,0.66667,1.0,0.89655
+batman arkham asylum goty edition,batman arkham origins blackgate deluxe edition,0.92445,0.0001,0.30764,0.65187,,unknown,unknown,0.904,0.92445,0.85892,0.58228,0.71739,1.0,0.0,1.0,0.67925,0.77778,0.0,0.375,1.0,0.65823
+planetary annihilation,planetary annihilation titans,0.95074,0.15553,0.68888,0.74851,,person,person,0.903,0.95074,0.95172,0.86275,0.75862,1.0,0.0,1.0,1.0,1.0,0.0,0.66667,1.0,0.86275
+war of the roses,war of the roses balance beta,0.92239,1e-05,0.2782,0.75272,,unknown,unknown,0.895,0.92239,0.91034,0.71111,0.55172,1.0,0.0,1.0,1.0,1.0,0.0,0.66667,1.0,0.71111
+dragon nest,dragon nest europe,0.95663,0.50101,0.76848,0.75335,,person,person,0.893,0.95663,0.92222,0.75862,0.61111,1.0,0.0,1.0,1.0,1.0,0.0,0.66667,1.0,0.75862
+bioshock infinite burial at sea episode 2,bioshock infinite season pass,0.88679,0.00012,0.2742,0.64639,,unknown,unknown,0.893,0.88679,0.88306,0.6,0.70732,1.0,0.0,1.0,0.76596,0.73913,0.0,0.22222,1.0,0.68571
+bioshock infinite burial at sea episode 1,bioshock infinite season pass,0.885,0.0,0.27321,0.64639,,unknown,unknown,0.893,0.885,0.88306,0.6,0.70732,1.0,0.0,1.0,0.76596,0.73913,0.0,0.22222,1.0,0.68571
+half life 2,half life 2 episode two,0.96017,0.99948,0.20188,0.75484,,unknown,unknown,0.89,0.96017,0.89565,0.64706,0.47826,1.0,0.0,1.0,1.0,1.0,0.0,0.6,1.0,0.64706
+half life 2 deathmatch,half life 2 lost coast,0.88387,0.00011,0.40922,0.75818,,unknown,unknown,0.884,0.88387,0.86591,0.63636,1.0,1.0,0.0,1.0,0.73684,0.68182,0.0,0.5,1.0,0.68182
+magicite,magicka,0.93181,0.00041,0.5208,0.64142,,unknown,unknown,0.883,0.93181,0.86786,0.66667,0.875,1.0,0.0,0.0,0.83333,0.66667,0.0,0.0,1.0,0.66667
+just cause 2,just cause 2 multiplayer mod,0.883,0.02826,0.25009,0.64003,,unknown,unknown,0.88,0.883,0.88571,0.6,0.42857,1.0,0.0,1.0,1.0,1.0,0.0,0.6,1.0,0.6
+batman arkham origins blackgate deluxe edition,batman arkham origins infinite earths skins pack,0.9244,0.0,0.47856,0.76158,,unknown,unknown,0.877,0.9244,0.86372,0.59574,0.95833,1.0,0.0,1.0,0.68571,0.62687,1.0,0.3,1.0,0.61702
+sid meier s civilization v,sid meier s civilization v scrambled continents map pack,0.92904,0.00068,0.22161,0.76211,,unknown,unknown,0.876,0.92904,0.89286,0.63415,0.46429,1.0,0.0,1.0,1.0,1.0,1.0,0.55556,1.0,0.63415
+batman arkham city goty,batman arkham origins,0.91658,0.01295,0.25249,0.63807,,unknown,person,0.876,0.91658,0.89797,0.72727,0.91304,1.0,0.0,1.0,0.81081,0.76471,0.0,0.4,0.0,0.72727
+half life 2,half life 2 episode one,0.95324,0.07395,0.22327,0.63703,,unknown,unknown,0.874,0.95324,0.89565,0.64706,0.47826,1.0,0.0,1.0,1.0,1.0,0.0,0.6,1.0,0.64706
+stronghold crusader hd,stronghold kingdoms,0.85583,0.0,0.60449,0.63697,,ngo,ngo,0.874,0.85583,0.83964,0.58537,0.86364,1.0,0.0,1.0,0.73333,0.68966,0.0,0.25,1.0,0.58537
+total war shogun 2,total war shogun 2 fall of the samurai,0.95747,0.93922,0.33404,0.76355,,unknown,tech,0.873,0.95747,0.89474,0.64286,0.47368,1.0,0.0,1.0,1.0,1.0,0.0,0.5,0.0,0.64286
+batman arkham origins blackgate deluxe edition,batman arkham origins new millennium skins pack,0.93356,3e-05,0.51317,0.76372,,unknown,unknown,0.873,0.93356,0.87254,0.58065,0.97872,1.0,0.0,1.0,0.69231,0.62687,1.0,0.3,1.0,0.62366
+stronghold 3,stronghold kingdoms,0.90908,1e-05,0.60784,0.76472,,ngo,ngo,0.871,0.90908,0.89912,0.70968,0.63158,1.0,0.0,1.0,0.95652,0.90909,0.0,0.33333,1.0,0.70968
+far cry,far cry 3,0.95507,0.00505,0.70739,0.76458,,person,unknown,0.871,0.95507,0.95556,0.875,0.77778,1.0,1.0,1.0,1.0,1.0,0.0,0.66667,0.0,0.875
+far cry,far cry 2,0.95798,0.02618,0.70381,0.76458,,person,unknown,0.871,0.95798,0.95556,0.875,0.77778,1.0,1.0,1.0,1.0,1.0,0.0,0.66667,0.0,0.875
+arma 2,arma 3 zeus,0.89234,0.0,0.71975,0.63181,,unknown,unknown,0.864,0.89234,0.85758,0.58824,0.54545,1.0,0.0,1.0,0.90909,0.8,0.0,0.25,1.0,0.58824
+the witcher 3 wild hunt,the witcher enhanced edition,0.90815,0.05782,0.47806,0.62947,,unknown,unknown,0.859,0.90815,0.86287,0.58824,0.82143,1.0,0.0,1.0,0.7027,0.64706,0.0,0.28571,1.0,0.58824
+stronghold hd,stronghold kingdoms,0.84889,0.0,0.59129,0.77129,,ngo,ngo,0.857,0.84889,0.91093,0.75,0.68421,1.0,0.0,1.0,0.91667,0.86957,0.0,0.33333,1.0,0.75
+stronghold crusader extreme hd,stronghold hd,0.93679,0.88146,0.35088,0.77319,,ngo,ngo,0.854,0.93679,0.86462,0.60465,0.43333,1.0,0.0,1.0,0.91667,1.0,0.0,0.5,1.0,0.60465
+metro 2033 redux,metro last light redux,0.93832,0.00676,0.25663,0.62528,,unknown,unknown,0.851,0.93832,0.85909,0.63158,0.72727,1.0,0.0,1.0,0.6087,0.81481,0.0,0.4,1.0,0.63158
+company of heroes 2,company of heroes new steam version,0.90376,0.02299,0.30907,0.62159,,corporate,corporate,0.843,0.90376,0.89233,0.62963,0.54286,1.0,0.0,1.0,0.97297,0.94444,0.0,0.33333,1.0,0.66667
+space colony,space run,0.89154,0.0,0.69024,0.61953,,person,person,0.839,0.89154,0.87222,0.66667,0.75,1.0,0.0,1.0,0.8,0.71429,0.0,0.33333,1.0,0.66667
+arma 2,arma 2 dayz mod,0.90371,1e-05,0.30246,0.61695,,unknown,unknown,0.834,0.90371,0.88,0.57143,0.4,1.0,0.0,1.0,1.0,1.0,0.0,0.5,1.0,0.57143
+realm of the mad god,realms of the haunting,0.86231,0.00814,0.43387,0.61577,,unknown,unknown,0.832,0.86231,0.88636,0.66667,0.90909,1.0,0.0,0.0,0.77778,0.66667,0.0,0.28571,1.0,0.71429
+half life 2 deathmatch,half life 2 episode two,0.9085,0.37898,0.45917,0.78648,,unknown,unknown,0.827,0.9085,0.85347,0.62222,0.95652,1.0,0.0,1.0,0.74286,0.66667,0.0,0.5,1.0,0.66667
+war of the roses balance beta,war of the roses kingmaker,0.90998,1e-05,0.27351,0.78872,,unknown,unknown,0.823,0.90998,0.88178,0.69091,0.89655,1.0,0.0,1.0,0.8,0.7619,0.0,0.57143,1.0,0.69091
+call of duty advanced warfare,call of duty black ops ii,0.9006,0.00066,0.2917,0.60741,,unknown,unknown,0.815,0.9006,0.83834,0.59259,0.86207,1.0,0.0,1.0,0.71795,0.64865,0.0,0.375,1.0,0.59259
+killing floor 2,killing floor mod defence alliance 2,0.8952,0.00043,0.25954,0.60571,,unknown,corporate,0.811,0.8952,0.86444,0.58824,0.41667,1.0,0.0,1.0,0.96552,1.0,0.0,0.6,0.0,0.58824
+shadowrun dragonfall director s cut,wasteland 2 director s cut,0.88438,0.0,0.39619,0.60562,,unknown,unknown,0.811,0.88438,0.7458,0.59016,0.74286,1.0,0.0,0.0,0.77273,0.7,0.0,0.42857,1.0,0.62295
+call of duty advanced warfare multiplayer,call of duty black ops ii multiplayer,0.94976,0.18621,0.51993,0.79524,,unknown,unknown,0.81,0.94976,0.85937,0.71795,0.90244,1.0,0.0,1.0,0.64865,0.78689,0.0,0.44444,1.0,0.71795
+counter strike condition zero,counter strike source,0.90983,0.0,0.27551,0.60249,,unknown,person,0.805,0.90983,0.89093,0.6,0.72414,1.0,0.0,1.0,0.86486,0.8,0.0,0.4,0.0,0.68
+empire total war,napoleon total war,0.90594,0.01269,0.53788,0.6008,,person,person,0.802,0.90594,0.72222,0.70588,0.88889,1.0,0.0,0.0,0.76923,0.72,0.0,0.5,1.0,0.70588
+counter strike nexon zombies,counter strike source,0.87264,0.0,0.24867,0.60027,,unknown,person,0.801,0.87264,0.88889,0.65306,0.75,1.0,0.0,1.0,0.84211,0.8,0.0,0.4,0.0,0.69388
+starbound,starbound unstable,0.94546,1e-05,0.44071,0.59995,,unknown,person,0.8,0.94546,0.9,0.66667,0.5,1.0,0.0,1.0,1.0,1.0,0.0,0.5,0.0,0.66667
+arma 3,arma 3 zeus,0.92454,8e-05,0.71202,0.80071,,unknown,unknown,0.799,0.92454,0.90909,0.70588,0.54545,1.0,0.0,1.0,1.0,1.0,0.0,0.66667,1.0,0.70588
+endless legend,endless space,0.85679,0.0,0.58267,0.5949,,person,person,0.79,0.85679,0.86703,0.66667,0.92857,1.0,0.0,1.0,0.78261,0.7,0.0,0.33333,1.0,0.66667
+dead rising 3,dead rising 3 dlc4,0.9501,0.01984,0.23665,0.80597,,unknown,unknown,0.788,0.9501,0.94444,0.83871,0.72222,1.0,0.0,1.0,1.0,1.0,0.0,0.75,1.0,0.83871
+grand theft auto episodes from liberty city,grand theft auto iv,0.91341,1e-05,0.28303,0.5879,,unknown,unknown,0.776,0.91341,0.87319,0.58065,0.44186,1.0,0.0,1.0,0.94444,0.91429,0.0,0.375,1.0,0.58065
+dead island,dead space,0.86018,0.0,0.64391,0.58372,,person,person,0.767,0.86018,0.86727,0.66667,0.90909,1.0,0.0,1.0,0.73684,0.66667,0.0,0.33333,1.0,0.66667
+call of duty advanced warfare multiplayer,call of duty black ops multiplayer,0.95353,0.25236,0.51562,0.81695,,unknown,unknown,0.766,0.95353,0.85843,0.74667,0.82927,1.0,0.0,1.0,0.61765,0.82759,0.0,0.5,1.0,0.74667
+bioshock,bioshock 2,0.97421,0.03324,0.29226,0.82666,,unknown,unknown,0.747,0.97421,0.96,0.88889,0.8,1.0,0.0,1.0,1.0,1.0,0.0,0.5,1.0,0.88889
+arma 2,arma 3,0.9541,0.0,0.78057,0.82932,,unknown,unknown,0.741,0.9541,0.93333,0.83333,1.0,1.0,0.0,1.0,0.90909,0.83333,0.0,0.33333,1.0,0.83333
+penumbra overture,penumbra requiem,0.90532,0.00083,0.65512,0.57056,,person,person,0.741,0.90532,0.90006,0.48485,0.94118,1.0,0.0,1.0,0.72,0.72727,0.0,0.33333,1.0,0.72727
+valkyria chronicles hard ex mode,valkyria chronicles selveria s mission behind her blue flame,0.84046,0.0,0.22279,0.56934,,unknown,unknown,0.739,0.84046,0.86083,0.6087,0.53333,1.0,0.0,1.0,0.77778,0.7451,1.0,0.16667,1.0,0.58696
+portal,portal 2,0.94787,0.00019,0.33479,0.83063,,unknown,unknown,0.739,0.94787,0.95,0.85714,0.75,1.0,0.0,1.0,1.0,1.0,0.0,0.5,1.0,0.85714
+stronghold 3,stronghold hd,0.89914,0.0,0.69504,0.83106,,ngo,ngo,0.738,0.89914,0.95256,0.88,0.92308,1.0,0.0,1.0,0.95652,0.90909,0.0,0.33333,1.0,0.88
+tropico 4,tropico 5,0.96942,0.0,0.79647,0.8316,,unknown,unknown,0.737,0.96942,0.95556,0.88889,1.0,1.0,0.0,1.0,0.94118,0.88889,0.0,0.33333,1.0,0.88889
+dead rising 3,dead rising 3 dlc1,0.95276,0.1925,0.24632,0.83297,,unknown,unknown,0.734,0.95276,0.94444,0.83871,0.72222,1.0,0.0,1.0,1.0,1.0,0.0,0.75,1.0,0.83871
+dead rising 3,dead rising 3 dlc2,0.94924,0.10072,0.25585,0.83457,,unknown,unknown,0.731,0.94924,0.94444,0.83871,0.72222,1.0,0.0,1.0,1.0,1.0,0.0,0.75,1.0,0.83871
+valkyria chronicles challenge of the edy detachment,valkyria chronicles selveria s mission behind her blue flame,0.85211,0.0,0.20454,0.56522,,unknown,unknown,0.73,0.85211,0.85709,0.59459,0.85,1.0,0.0,1.0,0.60606,0.59459,1.0,0.14286,1.0,0.59459
+bioshock infinite,bioshock infinite season pass,0.93822,0.00627,0.21219,0.56252,,person,unknown,0.725,0.93822,0.91724,0.73913,0.58621,1.0,0.0,1.0,1.0,1.0,0.0,0.5,0.0,0.73913
+valkyria chronicles,valkyria chronicles hard ex mode,0.89152,0.00044,0.21707,0.56029,,person,unknown,0.721,0.89152,0.91875,0.7451,0.59375,1.0,0.0,1.0,1.0,1.0,0.0,0.4,0.0,0.7451
+sid meier s civilization v brave new world,sid meier s civilization v scrambled continents map pack,0.91395,0.0054,0.34283,0.83956,,unknown,unknown,0.721,0.91395,0.89035,0.55102,0.75,1.0,0.0,1.0,0.79487,0.76471,1.0,0.41667,1.0,0.69388
+batman arkham origins infinite earths skins pack,batman arkham origins initiation,0.92765,0.00369,0.27845,0.84022,,unknown,unknown,0.72,0.92765,0.91001,0.675,0.66667,1.0,0.0,1.0,0.88525,0.79245,1.0,0.375,1.0,0.75
+metro 2033,metro 2033 redux,0.97073,0.17397,0.75636,0.84077,,unknown,unknown,0.718,0.97073,0.925,0.76923,0.625,1.0,0.0,1.0,1.0,1.0,0.0,0.66667,1.0,0.76923
+dead space,fractured space,0.86901,0.83196,0.61871,0.55809,,person,person,0.716,0.86901,0.68519,0.64,0.66667,1.0,0.0,0.0,0.88889,0.66667,0.0,0.33333,1.0,0.64
+penumbra black plague,penumbra requiem,0.88435,0.00766,0.65953,0.55711,,person,person,0.714,0.88435,0.84226,0.59459,0.7619,1.0,0.0,1.0,0.72,0.66667,0.0,0.25,1.0,0.59459
+dead island,dead rising 3,0.84878,0.0,0.65393,0.55521,,person,unknown,0.71,0.84878,0.86853,0.66667,0.84615,1.0,0.0,1.0,0.7619,0.66667,0.0,0.25,0.0,0.66667
+bioshock 2,bioshock infinite,0.94591,3e-05,0.72343,0.55495,,unknown,person,0.71,0.94591,0.88588,0.59259,0.58824,1.0,0.0,1.0,0.94737,0.88889,0.0,0.33333,0.0,0.66667
+wasteland 1 the original classic,wasteland 2 director s cut,0.87449,0.0,0.42089,0.55168,,unknown,unknown,0.703,0.87449,0.85469,0.58621,0.8125,1.0,0.0,1.0,0.63636,0.58621,0.0,0.11111,1.0,0.58621
+batman arkham origins initiation,batman arkham origins new millennium skins pack,0.93274,0.00013,0.30462,0.84841,,unknown,unknown,0.703,0.93274,0.87986,0.65823,0.68085,1.0,0.0,1.0,0.83636,0.79245,1.0,0.375,1.0,0.68354
+portal 2,portal 2 the final hours,0.94228,0.0,0.36069,0.55175,,unknown,unknown,0.703,0.94228,0.86667,0.5,0.33333,1.0,0.0,1.0,1.0,1.0,0.0,0.4,1.0,0.5
+borderlands 2 headhunter 4 wedding day massacre,borderlands 2 headhunter 5 son of crawmerax,0.87034,0.0,0.42124,0.85111,,unknown,unknown,0.698,0.87034,0.90251,0.66667,0.91489,1.0,0.0,1.0,0.77778,0.71642,1.0,0.27273,1.0,0.71111
+borderlands 2 headhunter 1 bloody harvest,borderlands 2 headhunter 4 wedding day massacre,0.9139,0.0,0.50399,0.85249,,unknown,unknown,0.695,0.9139,0.88928,0.61364,0.87234,1.0,0.0,1.0,0.77143,0.73846,1.0,0.3,1.0,0.72727
+the witcher 2 assassins of kings enhanced edition,the witcher enhanced edition,0.9519,1.0,0.39212,0.85346,,unknown,unknown,0.693,0.9519,0.85714,0.72727,0.57143,1.0,0.0,1.0,0.75556,1.0,0.0,0.5,1.0,0.72727
+counter strike condition zero,counter strike global offensive,0.86996,0.0,0.4018,0.54615,,unknown,corporate,0.692,0.86996,0.86126,0.53333,0.93548,1.0,0.0,1.0,0.69231,0.65116,0.0,0.4,0.0,0.63333
+half life 2 episode one,half life deathmatch source,0.8621,0.0,0.41601,0.54184,,unknown,unknown,0.684,0.8621,0.83265,0.6,0.85185,1.0,0.0,1.0,0.68571,0.6,0.0,0.28571,1.0,0.6
+grand theft auto episodes from liberty city,grand theft auto v,0.90734,0.0,0.28309,0.54088,,unknown,unknown,0.682,0.90734,0.86796,0.52459,0.4186,1.0,0.0,1.0,0.97143,0.94118,0.0,0.375,1.0,0.55738
+borderlands 2 headhunter 1 bloody harvest,borderlands 2 headhunter 5 son of crawmerax,0.9006,0.0,0.48476,0.86065,,unknown,unknown,0.679,0.9006,0.90234,0.66667,0.95349,1.0,0.0,1.0,0.78261,0.73846,1.0,0.3,1.0,0.7381
+wasteland 2,wasteland 2 director s cut,0.90972,3e-05,0.19949,0.53716,,unknown,unknown,0.674,0.90972,0.88462,0.59459,0.42308,1.0,0.0,1.0,1.0,1.0,0.0,0.4,1.0,0.59459
+dungeon of the endless,legend of dungeon,0.92509,0.99601,0.46084,0.53628,,unknown,person,0.673,0.92509,0.69917,0.71795,0.77273,1.0,0.0,0.0,0.58333,0.74074,0.0,0.4,0.0,0.46154
+romance of the three kingdoms maker,war of the roses kingmaker,0.86729,1e-05,0.34147,0.53665,,unknown,unknown,0.673,0.86729,0.73071,0.72131,0.74286,1.0,0.0,0.0,0.69231,0.72131,0.0,0.22222,1.0,0.68852
+borderlands 2 headhunter 3 mercenary day,borderlands 2 headhunter 5 son of crawmerax,0.89233,0.0,0.39854,0.86693,,unknown,unknown,0.666,0.89233,0.91493,0.6988,0.93023,1.0,0.0,1.0,0.78873,0.75,1.0,0.3,1.0,0.72289
+far cry 2 fortunes pack,far cry 3,0.91624,0.0,0.45682,0.53239,,unknown,unknown,0.665,0.91624,0.84734,0.5,0.3913,1.0,0.0,1.0,0.94118,0.875,0.0,0.33333,1.0,0.5
+batman arkham knight,batman arkham origins initiation,0.93473,0.00089,0.25284,0.5314,,person,unknown,0.663,0.93473,0.88139,0.65385,0.625,1.0,0.0,1.0,0.84211,0.78788,0.0,0.4,0.0,0.65385
+borderlands 2 headhunter 2 wattle gobbler,borderlands 2 headhunter 4 wedding day massacre,0.89131,0.0,0.43144,0.86841,,unknown,unknown,0.663,0.89131,0.88928,0.65909,0.87234,1.0,0.0,1.0,0.8,0.7619,1.0,0.33333,1.0,0.68182
+bioshock,bioshock infinite,0.95824,0.00303,0.3136,0.53077,,unknown,person,0.662,0.95824,0.89412,0.64,0.47059,1.0,0.0,1.0,1.0,1.0,0.0,0.5,0.0,0.64
+borderlands 2 headhunter 1 bloody harvest,borderlands 2 headhunter 3 mercenary day,0.92046,0.0,0.41724,0.87064,,unknown,unknown,0.659,0.92046,0.89735,0.66667,0.97561,1.0,0.0,1.0,0.77612,0.76543,1.0,0.33333,1.0,0.71605
+dead rising 3,dead rising 3 dlc3,0.95352,0.66168,0.23151,0.87312,,unknown,unknown,0.654,0.95352,0.94444,0.83871,0.72222,1.0,0.0,1.0,1.0,1.0,0.0,0.75,1.0,0.83871
+stronghold 3,stronghold crusader extreme hd,0.88189,0.0,0.3687,0.52712,,ngo,ngo,0.654,0.88189,0.85667,0.52381,0.4,1.0,0.0,1.0,0.95652,0.90909,0.0,0.2,1.0,0.52381
+counter strike,counter strike condition zero,0.92839,0.0,0.25139,0.52375,,person,unknown,0.648,0.92839,0.89655,0.65116,0.48276,1.0,0.0,1.0,1.0,1.0,0.0,0.5,0.0,0.65116
+hitman absolution,hitman blood money,0.86807,0.0,0.4845,0.52165,,person,person,0.643,0.86807,0.85784,0.57143,0.94444,1.0,0.0,1.0,0.74074,0.62857,0.0,0.25,1.0,0.62857
+war of the roses,war of the roses kingmaker,0.96716,0.48907,0.46452,0.87913,,unknown,unknown,0.642,0.96716,0.92308,0.7619,0.61538,1.0,0.0,1.0,1.0,1.0,0.0,0.8,1.0,0.7619
+borderlands 2 headhunter 2 wattle gobbler,borderlands 2 headhunter 5 son of crawmerax,0.92287,0.0,0.51424,0.87936,,unknown,unknown,0.641,0.92287,0.88618,0.69048,0.95349,1.0,0.0,1.0,0.77143,0.7619,1.0,0.33333,1.0,0.71429
+borderlands 2,borderlands 2 ru,0.97485,0.05056,0.76596,0.87985,,unknown,unknown,0.64,0.97485,0.9625,0.89655,0.8125,1.0,0.0,1.0,1.0,1.0,0.0,0.66667,1.0,0.89655
+half life 2 episode two,half life deathmatch source,0.8637,0.0,0.41965,0.51765,,unknown,unknown,0.635,0.8637,0.83846,0.56,0.85185,1.0,0.0,1.0,0.7027,0.5625,0.0,0.28571,1.0,0.56
+half life 2 deathmatch,half life deathmatch source,0.95804,0.35048,0.51248,0.88283,,unknown,unknown,0.634,0.95804,0.89885,0.81633,0.81481,1.0,0.0,1.0,0.95238,0.95238,0.0,0.6,1.0,0.81633
+arma 2,arma 2 operation arrowhead,0.90392,0.00092,0.30004,0.51505,,unknown,unknown,0.63,0.90392,0.84615,0.375,0.23077,1.0,0.0,1.0,1.0,1.0,0.0,0.5,1.0,0.375
+assassin s creed,assassin s creed ii,0.9711,0.44883,0.30479,0.88497,,unknown,unknown,0.63,0.9711,0.96842,0.91429,0.84211,1.0,0.0,1.0,1.0,1.0,0.0,0.75,1.0,0.91429
+borderlands 2 headhunter 1 bloody harvest,borderlands 2 headhunter 2 wattle gobbler,0.94034,1e-05,0.49314,0.88496,,unknown,unknown,0.63,0.94034,0.90818,0.65854,1.0,1.0,0.0,1.0,0.8,0.7619,1.0,0.375,1.0,0.70732
+disciples ii gallean s return,disciples ii rise of the elves,0.86001,0.0006,0.28005,0.5147,,unknown,unknown,0.629,0.86001,0.85626,0.64407,0.96667,1.0,0.0,1.0,0.66667,0.64407,0.0,0.22222,1.0,0.57627
+batman arkham origins blackgate deluxe edition,batman arkham origins initiation,0.93606,0.03958,0.3317,0.88573,,unknown,unknown,0.629,0.93606,0.89354,0.71795,0.69565,1.0,0.0,1.0,0.81481,0.79245,1.0,0.42857,1.0,0.71795
+payday 2,payday the heist,0.90329,0.0,0.60941,0.51118,,unknown,person,0.622,0.90329,0.8625,0.58333,0.5,1.0,0.0,1.0,0.93333,0.85714,0.0,0.25,0.0,0.58333
+call of duty black ops,call of duty black ops ii multiplayer,0.93412,0.01507,0.33102,0.88939,,unknown,unknown,0.621,0.93412,0.91892,0.74576,0.59459,1.0,0.0,1.0,1.0,1.0,1.0,0.71429,1.0,0.74576
+don t starve reign of giants,don t starve together beta,0.87732,0.26698,0.15716,0.50884,,unknown,unknown,0.618,0.87732,0.8667,0.48148,0.92857,1.0,0.0,1.0,0.73171,0.63158,0.0,0.375,1.0,0.59259
+borderlands 2 headhunter 2 wattle gobbler,borderlands 2 headhunter 3 mercenary day,0.92281,0.0,0.43877,0.8913,,unknown,unknown,0.617,0.92281,0.89332,0.69136,0.97561,1.0,0.0,1.0,0.78261,0.7619,1.0,0.375,1.0,0.71605
+counter strike condition zero,counter strike condition zero deleted scenes,0.92378,1e-05,0.25687,0.89264,,unknown,unknown,0.615,0.92378,0.93182,0.79452,0.65909,1.0,0.0,1.0,1.0,1.0,1.0,0.66667,1.0,0.79452
+arma 2 operation arrowhead,arma 2 operation arrowhead beta obsolete,0.94636,0.01146,0.30331,0.89384,,unknown,unknown,0.612,0.94636,0.93,0.78788,0.65,1.0,0.0,1.0,1.0,1.0,1.0,0.66667,1.0,0.78788
+counter strike,counter strike nexon zombies,0.8866,0.0,0.23048,0.50448,,person,unknown,0.609,0.8866,0.9,0.66667,0.5,1.0,0.0,1.0,1.0,1.0,0.0,0.5,0.0,0.66667
+magicka,magicka vietnam,0.87828,0.0,0.27401,0.50473,,unknown,person,0.609,0.87828,0.89333,0.63636,0.46667,1.0,0.0,1.0,1.0,1.0,0.0,0.5,0.0,0.63636
+far cry 2,far cry 3 blood dragon,0.90229,0.0,0.35312,0.5031,,unknown,unknown,0.606,0.90229,0.85051,0.51613,0.40909,1.0,0.0,1.0,0.94118,0.875,0.0,0.33333,1.0,0.51613
+stronghold crusader hd,stronghold hd,0.94642,0.9954,0.71003,0.89745,,ngo,ngo,0.605,0.94642,0.9028,0.74286,0.59091,1.0,0.0,1.0,0.91667,1.0,0.0,0.66667,1.0,0.74286
+aura kingdom,aura kingdom winter gift,0.90594,2e-05,0.21963,0.50195,,person,unknown,0.604,0.90594,0.9,0.66667,0.5,1.0,0.0,1.0,1.0,1.0,0.0,0.5,0.0,0.66667
+arma 2 dayz mod,arma 3,0.88435,0.0,0.3426,0.49166,,unknown,unknown,0.583,0.88435,0.83333,0.47619,0.4,1.0,0.0,1.0,0.90909,0.8,0.0,0.2,1.0,0.47619
+half life 2 lost coast,half life deathmatch source,0.86705,0.0,0.39823,0.48896,,unknown,unknown,0.578,0.86705,0.84518,0.57143,0.81481,1.0,0.0,1.0,0.66667,0.58065,0.0,0.28571,1.0,0.53061
+fallout 4,fallout new vegas,0.90457,0.0,0.72925,0.48605,,unknown,person,0.572,0.90457,0.8719,0.53846,0.52941,1.0,0.0,1.0,0.94118,0.875,0.0,0.25,0.0,0.61538
+call of duty advanced warfare,call of duty black ops multiplayer,0.89927,3e-05,0.29822,0.486,,unknown,unknown,0.572,0.89927,0.82175,0.50794,0.85294,1.0,0.0,1.0,0.66667,0.58537,0.0,0.375,1.0,0.57143
+dead space,endless space,0.8645,0.0,0.60091,0.48521,,person,person,0.57,0.8645,0.68013,0.69565,0.76923,1.0,0.0,0.0,0.75,0.69565,0.0,0.33333,1.0,0.69565
+space engineers,space run,0.8599,0.0,0.46182,0.48444,,person,person,0.569,0.8599,0.84889,0.58333,0.6,1.0,0.0,1.0,0.82353,0.71429,0.0,0.33333,1.0,0.58333
+batman arkham asylum goty edition,batman arkham origins,0.90991,0.00041,0.2403,0.48206,,unknown,person,0.564,0.90991,0.89169,0.62963,0.63636,1.0,0.0,1.0,0.81081,0.76471,0.0,0.33333,0.0,0.66667
+dungeon defenders ii,dungeon of the endless,0.88724,0.0,0.42222,0.47879,,person,unknown,0.558,0.88724,0.86795,0.47619,0.90909,1.0,0.0,1.0,0.65,0.66667,0.0,0.16667,0.0,0.66667
+far cry 2 fortunes pack,far cry 3 blood dragon,0.87475,0.0,0.42,0.47626,,unknown,unknown,0.553,0.87475,0.82044,0.44444,0.95652,1.0,0.0,1.0,0.63158,0.53333,0.0,0.25,1.0,0.53333
+the forest,the old tree,0.89318,0.00151,0.5827,0.47545,,person,person,0.551,0.89318,0.86833,0.45455,0.83333,1.0,0.0,1.0,0.66667,0.63636,0.0,0.25,1.0,0.63636
+dungeonland,legend of dungeon,0.93396,0.61254,0.36064,0.47516,,unknown,person,0.55,0.93396,0.67142,0.71429,0.64706,1.0,0.0,0.0,0.77778,0.71429,0.0,0.0,0.0,0.5
+borderlands 2 headhunter 3 mercenary day,borderlands 2 ru,0.8794,1e-05,0.26746,0.4727,,unknown,unknown,0.545,0.8794,0.8675,0.53571,0.4,1.0,0.0,1.0,0.93333,0.89655,0.0,0.28571,1.0,0.53571
+dungeon defenders ii,dungeon party,0.88483,0.0,0.65888,0.47193,,person,person,0.544,0.88483,0.82846,0.48485,0.65,1.0,0.0,1.0,0.7619,0.7,0.0,0.25,1.0,0.54545
+wasteland 1 the original classic,wasteland 2,0.9286,0.0,0.31033,0.47003,,unknown,unknown,0.54,0.9286,0.84432,0.46512,0.34375,1.0,0.0,1.0,0.95238,0.9,0.0,0.16667,1.0,0.46512
+borderlands 2 headhunter 1 bloody harvest,borderlands 2 ru,0.88655,3e-05,0.25238,0.46984,,unknown,unknown,0.54,0.88655,0.86555,0.5614,0.39024,1.0,0.0,1.0,0.93333,0.89655,0.0,0.28571,1.0,0.52632
+dungeon party,dungeonland,0.9124,0.0,0.29905,0.46613,,person,unknown,0.532,0.9124,0.86853,0.66667,0.84615,1.0,0.0,0.0,0.77778,0.66667,0.0,0.0,0.0,0.66667
+arma cold war assault,men of war assault squad,0.83251,0.56794,0.39185,0.46522,,unknown,unknown,0.53,0.83251,0.66369,0.62222,0.875,1.0,0.0,0.0,0.76923,0.71111,0.0,0.28571,1.0,0.66667
+call of duty advanced warfare multiplayer,call of duty black ops,0.87214,0.00013,0.29701,0.46438,,unknown,unknown,0.529,0.87214,0.82922,0.50794,0.53659,1.0,0.0,1.0,0.77778,0.70588,0.0,0.375,1.0,0.53968
+call of duty advanced warfare multiplayer,call of duty black ops ii,0.86861,4e-05,0.37909,0.45992,,unknown,unknown,0.52,0.86861,0.82756,0.54545,0.60976,1.0,0.0,1.0,0.71795,0.64865,0.0,0.33333,1.0,0.54545
+terraria,terratech,0.88435,0.0,0.33009,0.45863,,unknown,tech,0.517,0.88435,0.83611,0.58824,0.88889,1.0,0.0,0.0,0.76923,0.58824,0.0,0.0,0.0,0.58824
+rush,rust,0.82923,0.0,0.41276,0.45875,,unknown,unknown,0.517,0.82923,0.88333,0.75,1.0,1.0,0.0,0.0,0.85714,0.75,0.0,0.0,1.0,0.75
+aura kingdom,kingdom,0.86933,0.0,0.22622,0.45695,,person,unknown,0.514,0.86933,0.86111,0.73684,0.58333,1.0,0.0,0.0,1.0,1.0,0.0,0.5,0.0,0.73684
+portal 2,portal stories mel,0.87803,0.0,0.69705,0.45579,,unknown,person,0.512,0.87803,0.85278,0.53846,0.44444,1.0,0.0,1.0,0.93333,0.85714,0.0,0.25,0.0,0.53846
+half life 2,half life deathmatch source,0.89583,0.0,0.20592,0.45267,,unknown,unknown,0.505,0.89583,0.85589,0.52632,0.40741,1.0,0.0,1.0,0.95238,0.9,0.0,0.4,1.0,0.52632
